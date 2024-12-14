@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Zubair Ahmad
-- 👀 I’m interested in exploring new things.
-- 🌱 I’m currently learning to code.
+- 
 
 
 <!---
